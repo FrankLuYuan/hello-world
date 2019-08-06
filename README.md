@@ -1,2 +1,2 @@
 # hello-world
-The repository use to how to use GitHub.
+The repository use to learn how to use GitHub.
